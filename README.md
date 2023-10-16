@@ -9,4 +9,4 @@ effect between the spacecraft and a planet. In this app, I changed the initial p
 with two planets, Neptune and Mars. If you want to know more on how you can do this, I recommend Tim's 
 [YouTube channel](https://www.youtube.com/watch?v=HTfwhmHVpqM&list=LL&index=2&ab_channel=TechWithTim).
 
-![Gravitational Slingshot Effect](app.png)
+![Gravitational Slingshot Effect](app.gif)
