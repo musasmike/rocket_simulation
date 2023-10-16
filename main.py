@@ -19,7 +19,7 @@ OBJ_SIZE = 5  # radius of the ship
 VEL_SCALE = 100  # scale of the velocity
 
 # loads the background image
-BG = pygame.transform.scale(pygame.image.load("background2.jpg"), (WIDTH, HEIGHT))
+BG = pygame.transform.scale(pygame.image.load("background.jpg"), (WIDTH, HEIGHT))
 # loads the planet image
 PLANET = pygame.transform.scale(pygame.image.load("mars.png"), (PLANET_SIZE, PLANET_SIZE))
 # load the second planet image
